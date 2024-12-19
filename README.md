@@ -1,4 +1,4 @@
-## Hi there👋 I'm [Smruti Gupta]
+## Hi there👋 I'm Smruti Gupta
 
 Welcome to my GitHub profile! I'm a **Frontend Developer** and a **B.Tech Computer Science student** (4th Year) with a passion for building responsive, dynamic, and user-friendly web applications.
 
@@ -8,9 +8,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** and a **B.Tech Comput
 
 ## 🛠️ Skills & Tools
 - **Languages:** C,Java, HTML, CSS, JavaScript, React, Sql
-
-### Miscellaneous
-- **Version Control:** Git, GitHub
+- **Version Control:**  GitHub
 - **Other Tools:** Visual Studio Code, MS Excel, PowerPoint, WordPress
 
 ---
