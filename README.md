@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** and a **B.Tech Comput
 ---
 
 ## 🚀 About Me
-- 🌱 Currently diving deeper into **React**, **MongoDB**, and **JavaScript**.
 - 🧑‍💻 I love building projects that combine my **design** and **development** skills.
 - 🌐 Check out my portfolio: [Portfolio Link](your-portfolio-link)  
 - 📬 Reach me at: [Email](smrutigupta24@gmail.com) | [LinkedIn](https://www.linkedin.com/in/smruti-gupta-721b33233)
