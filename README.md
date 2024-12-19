@@ -6,13 +6,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** and a **B.Tech Comput
 
 ---
 
-## 🚀 About Me
-- 🧑‍💻 I love building projects that combine my **design** and **development** skills.
-- 🌐 Check out my portfolio: [Portfolio Link](your-portfolio-link)  
-- 📬 Reach me at: [Email](smrutigupta24@gmail.com) | [LinkedIn](https://www.linkedin.com/in/smruti-gupta-721b33233)
-
----
-
 ## 🛠️ Skills & Tools
 - **Languages:** C,Java, HTML, CSS, JavaScript, React, Sql
 
@@ -21,17 +14,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** and a **B.Tech Comput
 - **Other Tools:** Visual Studio Code, MS Excel, PowerPoint, WordPress
 
 ---
-
-## 🌟 Featured Projects
-
-Here are a few projects that showcase my skills and knowledge:
-
-### 1. **[Stock Prediction Gemini](https://github.com/Strongmindcareer/stock-prediction-gemini)**
-   - **Tech:** React, APIs
-   - A financial forecasting tool for predicting stock market trends.
-
----
-
 
 ## 🔗 Connect With Me
 - 🌐 [Portfolio](your-portfolio-link)
